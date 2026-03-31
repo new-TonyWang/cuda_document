@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://research.colfax-intl.com/flexattention-flashattention-4-fast-and-flexible-external/",
+    "title": "FlexAttention + FlashAttention-4: Fast and Flexible (External)"
+  },
+  {
+    "url": "https://research.colfax-intl.com/cutlass-tutorial-hardware-supported-block-scaling-with-nvidia-blackwell-gpus/",
+    "title": "CUTLASS Tutorial: Hardware-supported Block-scaling with NVIDIA Blackwell GPUs"
+  },
+  {
+    "url": "https://research.colfax-intl.com/flashattention-4-algorithm-and-kernel-pipelining-co-design-for-asymmetric-hardware-scaling/",
+    "title": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling"
+  },
+  {
+    "url": "https://research.colfax-intl.com/a-users-guide-to-flexattention-in-flash-attention-cute-dsl/",
+    "title": "A User’s Guide to FlexAttention in FlashAttention CuTe DSL"
+  },
+  {
+    "url": "https://research.colfax-intl.com/categorical-foundations-for-cute-layouts/",
+    "title": "Categorical Foundations for CuTe Layouts"
+  },
+  {
+    "url": "https://research.colfax-intl.com/cutlass-3-x-apis-orthogonal-reusable-and-composable-abstractions-for-gemm-kernel-design-external/",
+    "title": "CUTLASS 3.x APIs: Orthogonal, Reusable, and Composable Abstractions for GEMM Kernel Design (External)"
+  },
+  {
+    "url": "https://research.colfax-intl.com/cutlass-tutorial-sub-byte-gemm-on-nvidia-blackwell-gpus/",
+    "title": "CUTLASS Tutorial: Sub-byte GEMM on NVIDIA® Blackwell GPUs"
+  },
+  {
+    "url": "https://research.colfax-intl.com/cutlass-tutorial-gemm-with-thread-block-clusters-on-nvidia-blackwell-gpus/",
+    "title": "CUTLASS Tutorial: GEMM with Thread Block Clusters on NVIDIA® Blackwell GPUs"
+  },
+  {
+    "url": "https://research.colfax-intl.com/cutlass-tutorial-writing-gemm-kernels-using-tensor-memory-for-nvidia-blackwell-gpus/",
+    "title": "CUTLASS Tutorial: Writing GEMM Kernels Using Tensor Memory For NVIDIA® Blackwell GPUs"
+  },
+  {
+    "url": "https://research.colfax-intl.com/deepseek-r1-and-fp8-mixed-precision-training/",
+    "title": "DeepSeek-R1 and FP8 Mixed-Precision Training"
+  },
+  {
+    "url": "https://research.colfax-intl.com/cutlass-tutorial-persistent-kernels-and-stream-k/",
+    "title": "CUTLASS Tutorial: Persistent Kernels and Stream-K"
+  },
+  {
+    "url": "https://research.colfax-intl.com/flashattention-3-for-inference-int8-quantization-and-query-head-packing-for-mqa-gqa-external/",
+    "title": "FlashAttention-3 for Inference: INT8 Quantization and Query Head Packing for MQA/GQA (External)"
+  },
+  {
+    "url": "https://research.colfax-intl.com/gpu-mode-cutlass-and-flashattention-3/",
+    "title": "GPU Mode: CUTLASS and FlashAttention-3"
+  },
+  {
+    "url": "https://research.colfax-intl.com/epilogue_visitor_tree/",
+    "title": "Epilogue Fusion in CUTLASS with Epilogue Visitor Trees"
+  },
+  {
+    "url": "https://research.colfax-intl.com/gpu-passthrough-on-proxmox-ve-8/",
+    "title": "GPU passthrough on Proxmox VE 8.2"
+  },
+  {
+    "url": "https://research.colfax-intl.com/cutlass-tutorial-design-of-a-gemm-kernel/",
+    "title": "CUTLASS Tutorial: Efficient GEMM kernel designs with Pipelining"
+  },
+  {
+    "url": "https://research.colfax-intl.com/cutlass-tutorial-wgmma-hopper/",
+    "title": "CUTLASS Tutorial: Fast Matrix-Multiplication with WGMMA on NVIDIA® Hopper™ GPUs"
+  },
+  {
+    "url": "https://research.colfax-intl.com/flashattention-3-fast-and-accurate-attention-with-asynchrony-and-low-precision/",
+    "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision"
+  },
+  {
+    "url": "https://research.colfax-intl.com/tutorial-hopper-tma/",
+    "title": "CUTLASS Tutorial: Mastering the NVIDIA® Tensor Memory Accelerator (TMA)"
+  },
+  {
+    "url": "https://research.colfax-intl.com/sharing-nvidia-gpus-at-the-system-level-time-sliced-and-mig-backed-vgpus/",
+    "title": "Sharing NVIDIA® GPUs at the System Level: Time-Sliced and MIG-Backed vGPUs"
+  },
+  {
+    "url": "https://research.colfax-intl.com/tutorial-matrix-transpose-in-cutlass/",
+    "title": "Tutorial: Matrix Transpose in CUTLASS"
+  },
+  {
+    "url": "https://research.colfax-intl.com/ubuntu-22-04-netboot-on-servers-with-the-nvidia-grace-hopper-superchip/",
+    "title": "Installing Ubuntu 22.04 LTS over the Network on Servers with the NVIDIA® Grace Hopper™ Superchip"
+  },
+  {
+    "url": "https://research.colfax-intl.com/tutorial-python-binding-for-cuda-libraries-in-pytorch/",
+    "title": "Tutorial: Python bindings for CUDA libraries in PyTorch"
+  },
+  {
+    "url": "https://research.colfax-intl.com/adding-fp8-to-flashattention/",
+    "title": "Delivering 1 PFLOP/s of Performance with FP8 FlashAttention-2"
+  },
+  {
+    "url": "https://research.colfax-intl.com/a-note-on-the-algebra-of-cute-layouts/",
+    "title": "A note on the algebra of CuTe Layouts"
+  },
+  {
+    "url": "https://research.colfax-intl.com/nvidia-hopper-flashattention-2/",
+    "title": "A Case Study in CUDA Kernel Fusion: Implementing FlashAttention-2 on NVIDIA Hopper Architecture using the CUTLASS Library"
+  },
+  {
+    "url": "https://research.colfax-intl.com/nvidia-hopper-gemm-cutlass/",
+    "title": "Developing CUDA Kernels for GEMM on NVIDIA Hopper Architecture using CUTLASS"
+  }
+]
